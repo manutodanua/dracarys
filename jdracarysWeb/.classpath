@@ -14,5 +14,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpclient-4.2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsoup-1.7.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
